@@ -1,30 +1,3 @@
 {
-  "users": [
-    {
-      "username": "maut",
-      "key": "MDRtYXV0MjdhdDRyNTV0azZkaTczazNlYzV4bjVmN2R2dmRqcDMzNXJseHlxOWYwdDFwbDR4dHBkNmExb2ZhNA=="
-    },
-    {
-      "username": "viera",
-      "key": "MDV2aWVyYXQ2ODRyYmxwbmVmdTF3bzRsYzdwN2JnaWwzeWZndTIwZ2RwcmNob3hqb2NsaWJ5MjhnZjd2bm9idw=="
-    },
-    {
-      "username": "vlastelin",
-      "key": "MDl2bGFzdGVsaW4zNjZ5OGliZnJoM3dlMTByYnN4Y2NlcTdxbmJuN3I3NjE0a20zdmR2NjJvZ25sODE3cG1nbw=="
-    },
-    {
-      "username": "123",
-      "key": "123:0e1a89279be9f7d391e0be4ef634dc7edf7f02146e6bf78cc87505bd41200bb4"
-    },
-    {
-      "key": "dasdada:3f5fca52a4ecce3c9eb4e9400dacecd66f5debac97f55bf05f1cb807dd446b68"
-    },
-    {
-      "key": "vlastelinnn:a930efb962b5ad527d50da6d06128e74763faeab350ae804dea7400a942beb57"
-    },
-    {
-      "username": "vlast",
-      "key": "ec9378c6a123637d5a9b84b6f882f1704341043af5241c42437c6bd048fc0d40"
-    }
-  ]
+  "users": []
 }
