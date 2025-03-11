@@ -1,28 +1,3 @@
 {
-  "users": [
-    {
-      "username": "1233",
-      "key": "rwem40byjrm84kwxd7"
-    },
-    {
-      "username": "3213",
-      "key": "z701fa5g69cm84l2d4z"
-    },
-    {
-      "username": "555",
-      "key": "b207jcbcpvjm84l7taa"
-    },
-    {
-      "username": "2313123",
-      "key": "bgtndvzoxz8m84lhaom"
-    },
-    {
-      "username": "23131235",
-      "key": "f66564687d768ac73808778d8c0bce72cfee62d760f051f4be2d14ca942b4a2d"
-    },
-    {
-      "username": "23131235444",
-      "key": "MzQ1MjZlNmE5YWJhYjlkYWE1ODcyZjk5MzQ0YTZhMzNhMzJiNzg4N2IyNzc5MTBlZGNkNjk4OTQ2MjE4OWZkZg=="
-    }
-  ]
+  "users": []
 }
